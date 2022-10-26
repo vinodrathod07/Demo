@@ -1,1 +1,2 @@
 Git rocks
+First text commandes 
